@@ -4,7 +4,3 @@ search:
   formats:
     - html
     - json
-
-server:
-secret_key: "e70321a52dd8e6fd4ed808ead2aac45db95bd4ff473f50356522cc7c1dbe97fe"
-limiter: false
